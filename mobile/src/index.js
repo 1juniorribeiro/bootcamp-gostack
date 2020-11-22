@@ -1,5 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { SafeAreaView,FlatList, Text, StyleSheet, StatusBar, TouchableOpacity } from 'react-native'
+import { 
+    SafeAreaView,
+    FlatList, 
+    Text, 
+    StyleSheet, 
+    StatusBar, 
+    TouchableOpacity 
+} from 'react-native'
 
 import api from './services/api';
 
