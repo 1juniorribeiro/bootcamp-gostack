@@ -9,7 +9,7 @@ export function helloWorld(request: Request, response:Response) {
             'node.js',
             'React.js',
             'React Native',
-            {title: 'javvaScript', experience: 100}
+            {title: 'javaScript', experience: 100}
         ],
     });
 
