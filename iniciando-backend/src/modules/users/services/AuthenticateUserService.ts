@@ -5,7 +5,7 @@ import authConfig from '../../../config/auth';
 
 import AppError from '../../../shared/errors/AppError';
 
-import User from '../entities/user';
+import User from '../infra/typeorm/entities/user';
 
 interface Request {
   email: string;
